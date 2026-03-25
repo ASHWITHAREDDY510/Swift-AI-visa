@@ -1,15 +1,11 @@
 import streamlit as st
-import os
-from dotenv import load_dotenv
 
-# Load environment variables from .env file
-load_dotenv()
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
-
-# Safety check - ensure API key exists before app continues
-if not GROQ_API_KEY:
-    st.error("🔐 GROQ_API_KEY not found in .env file!")
-    st.info("Please create a `.env` file with: `GROQ_API_KEY=your_key_here`")
+# ✅ FIX: Use Streamlit Secrets
+try:
+    GROQ_API_KEY = st.secrets["GROQ_API_KEY"]
+except:
+    st.error("🔐 GROQ_API_KEY not found!")
+    st.info("Please add it in Streamlit → Settings → Secrets")
     st.stop()
 
 st.set_page_config(page_title="Visa Eligibility Checker", layout="centered")
