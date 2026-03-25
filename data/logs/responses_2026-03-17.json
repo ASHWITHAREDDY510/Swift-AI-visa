@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "project": "SwiftVisa",
+    "milestone": "Milestone 2: RAG + LLM Pipeline",
+    "log_start_date": "2026-03-17T16:33:25.877535",
+    "total_queries": 0,
+    "quality_metrics": {
+      "high_confidence": 0,
+      "medium_confidence": 0,
+      "low_confidence": 0,
+      "avg_retrieved_docs": 0
+    }
+  },
+  "responses": []
+}

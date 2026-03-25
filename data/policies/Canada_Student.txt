@@ -1,0 +1,18 @@
+## Canada - Student Visa
+### Source: Canada_Student.txt
+
+REQUIREMENTS:
+- Acceptance letter from designated learning institution
+- Prove sufficient funds for tuition and living
+- Be law-abiding citizen with no criminal record
+- Be in good health
+
+REQUIRED DOCUMENTS:
+- Valid passport
+- Letter of acceptance
+- Proof of financial support (CAD $10,000+/year)
+- Immigration medical exam
+- Police clearance certificate
+
+PROCESSING TIME: 4-12 weeks
+FEES: CAD $150

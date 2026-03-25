@@ -1,0 +1,19 @@
+## Canada - Tourist Visa
+### Source: Canada_Tourist.txt
+
+REQUIREMENTS:
+- Have valid travel document
+- Be in good health
+- No criminal or immigration convictions
+- Convince officer you'll leave Canada
+- Have sufficient funds for stay
+
+REQUIRED DOCUMENTS:
+- Valid passport
+- Bank statements (6 months)
+- Employment letter
+- Travel itinerary
+- Proof of ties to home country
+
+PROCESSING TIME: 2-8 weeks
+FEES: CAD $100

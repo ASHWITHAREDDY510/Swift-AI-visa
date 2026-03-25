@@ -1,0 +1,18 @@
+## United States - Work Visa
+### Source: United_States_Work.txt
+
+REQUIREMENTS:
+- Job offer from US employer
+- Employer must file petition (Form I-129)
+- Meet visa category requirements (H-1B, L-1, etc.)
+- Prove qualifications for position
+
+REQUIRED DOCUMENTS:
+- Valid passport
+- Approved petition (Form I-797)
+- Educational certificates
+- Resume/CV
+- DS-160 confirmation page
+
+PROCESSING TIME: 2-6 months
+FEES: $190-460

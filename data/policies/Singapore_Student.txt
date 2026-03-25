@@ -1,0 +1,18 @@
+## Singapore - Student Visa
+### Source: Singapore_Student.txt
+
+REQUIREMENTS:
+- Acceptance from approved Singapore institution
+- Meet academic requirements
+- Prove sufficient funds for study
+- Attend full-time course
+
+REQUIRED DOCUMENTS:
+- Valid passport
+- Letter of acceptance
+- Academic transcripts
+- Financial evidence
+- Passport-sized photographs
+
+PROCESSING TIME: 2-4 weeks
+FEES: SGD $30-90

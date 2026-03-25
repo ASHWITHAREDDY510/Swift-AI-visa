@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "project": "SwiftVisa",
+    "milestone": "Milestone 2: RAG + LLM Pipeline",
+    "log_start_date": "2026-03-20T13:27:51.875475",
+    "total_queries": 4,
+    "quality_metrics": {
+      "high_confidence": 0,
+      "medium_confidence": 0,
+      "low_confidence": 0,
+      "avg_retrieved_docs": 0
+    }
+  },
+  "responses": [
+    {
+      "id": 1,
+      "timestamp": "2026-03-20T13:38:50.674574",
+      "query": "what documents are required  foe USA student  visa ",
+      "user_profile": {
+        "nationality": "Indian",
+        "passport_validity": "Valid 6+ months",
+        "age_group": "18-25",
+        "destination": "United Kingdom",
+        "visa_type": "Student Visa",
+        "purpose": "Employment",
+        "duration": "3-6 months",
+        "funding_source": "Educational Loan",
+        "education": "Bachelor's Degree",
+        "employment": "Employed Part-time",
+        "previous_visas": "Yes - 1-2 countries"
+      },
+      "response_status": "PARTIALLY ELIGIBLE",
+      "confidence": "Medium",
+      "retrieved_docs_count": 3,
+      "response_length": 1708,
+      "user_feedback": null,
+      "quality_score": 7
+    },
+    {
+      "id": 2,
+      "timestamp": "2026-03-20T14:25:21.481385",
+      "query": "what documents are required for  UK work visa",
+      "user_profile": {
+        "nationality": "American",
+        "destination": "United Kingdom",
+        "visa_type": "Work Visa",
+        "visa_details": {
+          "company_name": "Google",
+          "job_title": "software engineer",
+          "work_experience": "0-2 years",
+          "salary_offered": "$50,000",
+          "job_type": "Full-time",
+          "sponsor_available": "Yes",
+          "skills": "pytho",
+          "degree": "Bachelor's"
+        },
+        "query": "what documents are required for  UK work visa"
+      },
+      "response_status": "ELIGIBLE",
+      "confidence": "High",
+      "retrieved_docs_count": 3,
+      "response_length": 1249,
+      "user_feedback": null,
+      "quality_score": 9
+    },
+    {
+      "id": 3,
+      "timestamp": "2026-03-20T14:36:31.735421",
+      "query": "what documents are required for United Kingdom work visa",
+      "user_profile": {
+        "nationality": "Indian",
+        "destination": "United Kingdom",
+        "visa_type": "Work Visa",
+        "visa_details": {
+          "company_name": "Google",
+          "job_title": "software engineer",
+          "work_experience": "0-2 years",
+          "salary_offered": "$90,000",
+          "job_type": "Full-time",
+          "sponsor_available": "Yes",
+          "skills": "",
+          "degree": "Master's"
+        },
+        "query": "what documents are required for United Kingdom work visa"
+      },
+      "response_status": "ELIGIBLE",
+      "confidence": "High",
+      "retrieved_docs_count": 3,
+      "response_length": 1272,
+      "user_feedback": null,
+      "quality_score": 9
+    },
+    {
+      "id": 4,
+      "timestamp": "2026-03-20T14:41:51.047337",
+      "query": "what documents are required for  united kingdom work visa",
+      "user_profile": {
+        "nationality": "Australian",
+        "destination": "United Kingdom",
+        "visa_type": "Work Visa",
+        "visa_details": {
+          "company_name": "Google",
+          "job_title": "software Enigneer",
+          "work_experience": "0-2 years",
+          "salary_offered": "$10,0000",
+          "job_type": "Full-time",
+          "sponsor_available": "Yes",
+          "skills": "",
+          "degree": "Master's"
+        },
+        "query": "what documents are required for  united kingdom work visa"
+      },
+      "response_status": "ELIGIBLE",
+      "confidence": "High",
+      "retrieved_docs_count": 3,
+      "response_length": 1242,
+      "user_feedback": null,
+      "quality_score": 9
+    }
+  ]
+}
